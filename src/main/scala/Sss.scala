@@ -1,4 +1,4 @@
-import org.apache.spark.{SparkContext,SparkConf}
+import org.apache.spark.{SparkConf, SparkContext}
 
 object Sss {
   def main(args: Array[String]): Unit = {
@@ -7,7 +7,7 @@ object Sss {
     for(list<-a){
       println("List of Names::"+ list)
     }
-    val newList=("Shanmugam":: a)
+    val newList=("Shanmugami":: a)
     for(b<-newList){
       println("NewList::" + b)
     }*/
