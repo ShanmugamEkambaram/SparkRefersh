@@ -2,31 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="985f5576-f5a6-4c63-9243-64c290c3136b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/SparkAssignment-build.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/SparkAssignment.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/ShanTesting.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/SparkAssignment.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/SparkStreaming.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/SparkStreamingKafka.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/ShanSpark-build.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/ShanSpark.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/Config.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/Employee.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/JsonFileSample.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/MsSQL.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/Sample.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/ShanSample.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/ShanTrait.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/Shanmugam.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/ShanmugamEmp.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/Simple.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/Sss.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/TextFileSample.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/TextSample.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -65,8 +41,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/SparkAssignment.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
+            <state relative-caret-position="102">
+              <caret line="6" column="41" lean-forward="true" selection-end-line="42" selection-end-column="1" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
               </folding>
@@ -210,13 +186,13 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1611758009917" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1611760674559" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.52988505" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="net.orfjackal.sbt.plugin.settings.SbtConfigurable" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -392,6 +368,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28214827" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -402,7 +379,7 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32872504" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.42089093" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42089093" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39938557" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -412,7 +389,7 @@
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="9" weight="0.32872504" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32872504" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32872504" />
+      <window_info anchor="bottom" id="Version Control" order="12" visible="true" weight="0.32872504" />
       <window_info anchor="bottom" id="SBT Execute" order="13" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="14" weight="0.32872504" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -602,8 +579,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/SparkAssignment.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
+        <state relative-caret-position="102">
+          <caret line="6" column="41" lean-forward="true" selection-end-line="42" selection-end-column="1" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
           </folding>
