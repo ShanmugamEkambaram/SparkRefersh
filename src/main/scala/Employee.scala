@@ -1,1 +1,0 @@
-case class Employee(S_no: String, emp_id: String, emp_name: String, DOB: String, DOJ: String, sex: String, reportingperson: String, department: String, designation: String, status: String, installeddate: String)

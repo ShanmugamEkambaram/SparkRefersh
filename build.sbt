@@ -1,4 +1,4 @@
-name := "ShanSpark"
+name := "SparkAssignment"
 
 version := "0.1"
 
